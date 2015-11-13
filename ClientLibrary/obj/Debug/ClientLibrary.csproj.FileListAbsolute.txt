@@ -1,0 +1,7 @@
+C:\Users\MAG\Documents\MEGA\projet\semestre1\grati_jeudi\FaceAPI-Samples-CSharp\ClientLibrary\bin\Debug\ClientLibrary.dll
+C:\Users\MAG\Documents\MEGA\projet\semestre1\grati_jeudi\FaceAPI-Samples-CSharp\ClientLibrary\bin\Debug\ClientLibrary.pdb
+C:\Users\MAG\Documents\MEGA\projet\semestre1\grati_jeudi\FaceAPI-Samples-CSharp\ClientLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MAG\Documents\MEGA\projet\semestre1\grati_jeudi\FaceAPI-Samples-CSharp\ClientLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MAG\Documents\MEGA\projet\semestre1\grati_jeudi\FaceAPI-Samples-CSharp\ClientLibrary\obj\Debug\ClientLibrary.csprojResolveAssemblyReference.cache
+C:\Users\MAG\Documents\MEGA\projet\semestre1\grati_jeudi\FaceAPI-Samples-CSharp\ClientLibrary\obj\Debug\ClientLibrary.dll
+C:\Users\MAG\Documents\MEGA\projet\semestre1\grati_jeudi\FaceAPI-Samples-CSharp\ClientLibrary\obj\Debug\ClientLibrary.pdb
